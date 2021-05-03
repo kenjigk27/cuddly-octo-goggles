@@ -1,0 +1,10 @@
+body {
+	font-family: Century gothic;
+	background-color: #E7AD79;
+}
+#foto{
+	transition: all 0.7s
+}
+#foto:hover{
+	transform: scale(0.75);
+}
